@@ -3,6 +3,7 @@
     margin: 10px;
     height: 300px;
     width: 200px;
+    padding: 30px;
 }
 
 
@@ -11,6 +12,7 @@
     margin: 10px;
     height: 300px;
     width: 300px;
+    padding: 30px;
 }
 
 #div3{
@@ -18,14 +20,16 @@
     margin: 10px;
     height: 200px;
     width: 200px;
+    padding: 30px;
 }
 
 
 #div4{
     border: 1px dashed rgb(255, 0, 234);
     margin:10px;
-    height: 400px;
-    width: 400px;
+    height: 150px;
+    width: 150px;
+    padding: 30px;
 }
 
 body{
