@@ -2,30 +2,30 @@
     border: 1px dashed rgb(0, 255, 85);
     margin: 10px;
     height: 300px;
-    width: 100px;
+    width: 200px;
 }
 
 
 #div2{
     border: 1px  dashed rgb(255, 0, 0);
     margin: 10px;
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
 }
 
 #div3{
     border: 1px dashed rgb(255, 166, 0);
     margin: 10px;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
 }
 
 
 #div4{
     border: 1px dashed rgb(255, 0, 234);
     margin:10px;
-    height: 100px;
-    width: 100px;
+    height: 400px;
+    width: 400px;
 }
 
 body{
