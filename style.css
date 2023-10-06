@@ -1,0 +1,33 @@
+#div1{
+    border: 1px dashed rgb(0, 255, 85);
+    margin: 10px;
+    height: 300px;
+    width: 100px;
+}
+
+
+#div2{
+    border: 1px  dashed rgb(255, 0, 0);
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+#div3{
+    border: 1px dashed rgb(255, 166, 0);
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+
+#div4{
+    border: 1px dashed rgb(255, 0, 234);
+    margin:10px;
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    margin: 50px;
+}
